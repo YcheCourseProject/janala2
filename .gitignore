@@ -1,0 +1,5 @@
+.gradle
+build
+*.tmp
+test.log
+formula_test.dat
